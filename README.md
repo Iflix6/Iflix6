@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React and Laravel.**
 
-- 📫 How to reach me **supreme6tech@gmail,com**
+- 📫 How to reach me **supreme6tech@gmail.com**
 
 - ⚡ Fun fact **I think I am Jovial and Funny.**
 
