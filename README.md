@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Israel Inakhe</h1>
-<h3 align="center">A passionate fullstack web developer from Nigeria</h3>
+<h3 align="center">A passionate Software engineer from Nigeria</h3>
 
 - 🔭 I’m currently working on [a site where dog owners and vets can link-up.](https://github.com/Iflix6/dogsify.git)
 
